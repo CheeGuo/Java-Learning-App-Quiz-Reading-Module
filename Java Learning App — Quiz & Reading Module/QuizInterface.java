@@ -1,0 +1,3 @@
+interface QuizInterface {
+   void startScreen();
+}
