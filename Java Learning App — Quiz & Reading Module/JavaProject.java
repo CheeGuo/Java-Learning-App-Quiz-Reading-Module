@@ -1,4 +1,4 @@
-// Created by Tan Wei En (101179)
+
 import javax.swing.*;
 import java.awt.*;
 import java.awt.image.*;
