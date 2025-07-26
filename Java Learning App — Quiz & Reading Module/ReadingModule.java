@@ -1,4 +1,4 @@
-//Created by: Tan Wei En (101179), content idea by all
+
 import javax.imageio.ImageIO;
 import javax.swing.*;
 import java.awt.*;
