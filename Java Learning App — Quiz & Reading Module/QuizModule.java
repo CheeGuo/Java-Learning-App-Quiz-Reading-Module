@@ -1,4 +1,4 @@
-// Created by: Khoo Chee Guo (99406), content idea by all
+
 import java.awt.*;
 import javax.swing.*;
 
