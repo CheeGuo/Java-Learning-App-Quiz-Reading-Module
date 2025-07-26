@@ -1,4 +1,4 @@
-// Created by: Nurzawanah Uzma (97765)
+
 import java.io.*;
 import java.util.*;
 import javax.swing.*;
