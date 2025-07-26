@@ -1,4 +1,4 @@
-// Created by: Yee Pei Ling (101378)
+
 import java.time.*;
 import java.time.format.DateTimeFormatter;
 
